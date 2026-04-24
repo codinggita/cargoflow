@@ -51,8 +51,6 @@ By digitizing the entire workflow, CargoFlow significantly reduces friction, imp
 ## 🎨 Product Design  
 CargoFlow is designed with a focus on simplicity, clarity, and operational efficiency. The interface reduces complex logistics decisions into a few intuitive steps, making cargo booking accessible even for non-technical users.
 
-🔗 Figma Design:  
-https://www.figma.com/design/0DOsKlgOM9gjZfjJigScIo/Untitled?node-id=1-7&t=3O79VtEaP04qoxvV-1  
 
 ---
 
